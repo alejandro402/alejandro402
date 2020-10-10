@@ -1,5 +1,6 @@
 ### Hi there 👋
-### soy estudiante de ingenieria de sistemas de la Universidad Santiago de Cali
+### Soy estudiante de Ingenieria de Sistemas de la Universidad Santiago de Cali
+### Me gusata aprender y ser proactivo , me gusta la ciencia y lo tecnologico
 
 <!--
 **alejandro402/alejandro402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
