@@ -1,4 +1,5 @@
 ### Hi there 👋
+### soy estudiante de ingenieria de sistemas de la Universidad Santiago de Cali
 
 <!--
 **alejandro402/alejandro402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
