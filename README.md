@@ -1,6 +1,7 @@
 ### Hi there 👋
-### Soy estudiante de Ingenieria de Sistemas de la Universidad Santiago de Cali
-### Me gusata aprender y ser proactivo , me gusta la ciencia y lo tecnologico
+### Soy estudiante de Ingenieria de Sistemas de la Universidad Santiago de Cali.
+### Me gusta aprender y ser proactivo , me gusta la ciencia y lo tecnologico.
+### Mi comida favorita es el atún.
 
 <!--
 **alejandro402/alejandro402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
