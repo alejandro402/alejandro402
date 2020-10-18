@@ -1,4 +1,4 @@
-### Hi there 👋
+### HOLA A TODOS 👋
 ### Soy estudiante de Ingenieria de Sistemas de la Universidad Santiago de Cali.
 ### Me gusta aprender y ser proactivo , me gusta la ciencia y lo tecnologico.
 ### Mi comida favorita es el atún.
