@@ -1,12 +1,11 @@
 ### HOLA A TODOS 👋
-### Soy estudiante de Ingenieria de Sistemas de la Universidad Santiago de Cali.
+### Ingeniero de Sistemas de la Universidad Santiago de Cali.
 ### Me gusta aprender y ser proactivo , me gusta la ciencia y lo tecnologico.
-### Mi comida favorita es el atún.
 
 <!--
 **alejandro402/alejandro402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hola soy alejandro marin garcia estudiante de ingenieria de sistemas , me gusta aprender y de la ciencia
+Hola soy alejandro marin garcia ingenierio de sistemas , me gusta aprender y de la ciencia
 
 - 🔭 I’m currently working on Universidad santiago de cali
 - 🌱 I’m currently learning ...
